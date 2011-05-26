@@ -1,0 +1,21 @@
+<?php
+
+//class flavaViewService
+//{
+  //protected
+    //$moduleName,
+    //$options,
+    //$userOptions,
+    //$viewName;
+
+  //public function __construct($moduleName, $viewName, $userOptions = array())
+  //{
+    //$this->options
+
+    //$options['module_name'] = $module_name;
+    //$options['view_name'] = $view_name;
+    //$options['type'] = $type;
+    //$options['element_name'] = 'ajax-view-' . $module_name . '-' . $view_name;
+
+  //}
+//}

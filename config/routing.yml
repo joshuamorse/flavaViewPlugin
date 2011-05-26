@@ -1,0 +1,3 @@
+flava_ajax_view_show:
+  url: /ajax/view/:module_name/:view_name
+  params: { module: flavaView, action: show }

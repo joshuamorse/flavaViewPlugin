@@ -1,0 +1,5 @@
+all:
+  flava_view:
+    loading: '../flavaViewPlugin/images/ajax-loader.gif'
+    loadjs: false
+    allow_direct_access: true
